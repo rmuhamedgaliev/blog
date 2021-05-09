@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://rmuhamedgaliev.dev/sitemap.xml

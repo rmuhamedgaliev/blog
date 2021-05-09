@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Rinat Muhamedgaliev</title>
+    <link>https://rmuhamedgaliev.dev/tags/linux/</link>
+    <description>Recent content in Linux on Rinat Muhamedgaliev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Oct 2019 00:28:11 +0300</lastBuildDate><atom:link href="https://rmuhamedgaliev.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выступление на DevOPS митапе в Йошкар-Оле 18.01.2020</title>
+      <link>https://rmuhamedgaliev.dev/post/devops-jenkins/</link>
+      <pubDate>Mon, 21 Oct 2019 00:28:11 +0300</pubDate>
+      
+      <guid>https://rmuhamedgaliev.dev/post/devops-jenkins/</guid>
+      <description>Я недавно выступал на DevOPS митапе у нас в городе. И рассказывал как работает Jenkins и Docker агенты. Более подробный гайд я описал в статье на HabraHabr.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
