@@ -10,15 +10,12 @@ enableGitInfo = false
 
 staticDir = ["content/static"]
 
-# Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
-pygmentsOptions = "linenos=table"
-pygmentsCodefences = true
-pygmentsUseClasses = true
-pygmentsCodefencesGuessSyntax = true
-
-hasCJKLanguage = false     # has chinese/japanese/korean ?
+hasCJKLanguage = false
 paginate = 5
 googleAnalytics = "UA-157528596-1"
+
+[params]
+  github = 'rmuhamedgaliev'
 
 [author]
   name = "Rinat Muhamedgaliev"
