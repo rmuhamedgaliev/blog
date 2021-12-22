@@ -1,151 +1,135 @@
-<?xml-stylesheet type="text/xsl" href="https://rmuhamedgaliev.dev/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rmuhamedgaliev.dev/categories/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rmuhamedgaliev.dev/tags/dev/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rmuhamedgaliev.dev/categories/lifestyle/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rmuhamedgaliev.dev/tags/mac/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rmuhamedgaliev.dev/post/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rmuhamedgaliev.dev/tags/productivity/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rmuhamedgaliev.dev/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rmuhamedgaliev.dev/tags/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rmuhamedgaliev.dev/post/workstation-setup/</loc>
+    <lastmod>2021-01-03T00:28:11+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/tags/bus-factor/</loc>
     <lastmod>2020-02-02T15:56:05+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rmuhamedgaliev.dev/categories/</loc>
-    <lastmod>2020-02-02T15:56:05+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/tags/developers/</loc>
     <lastmod>2020-02-02T15:56:05+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/categories/development/</loc>
     <lastmod>2020-02-02T15:56:05+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rmuhamedgaliev.dev/post/</loc>
-    <lastmod>2020-02-02T15:56:05+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rmuhamedgaliev.dev/</loc>
-    <lastmod>2020-02-02T15:56:05+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/tags/soft-skills/</loc>
     <lastmod>2020-02-02T15:56:05+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rmuhamedgaliev.dev/tags/</loc>
-    <lastmod>2020-02-02T15:56:05+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/post/study/</loc>
     <lastmod>2020-02-02T15:56:05+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/post/unversal/</loc>
     <lastmod>2020-02-02T15:24:36+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/_about/</loc>
     <lastmod>2020-02-02T01:40:49+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/about/</loc>
     <lastmod>2020-02-02T01:40:49+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/_consult/</loc>
     <lastmod>2020-02-02T01:40:49+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/consult/</loc>
     <lastmod>2020-02-02T01:40:49+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/tags/devops/</loc>
     <lastmod>2019-10-21T00:28:11+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/tags/docker/</loc>
     <lastmod>2019-10-21T00:28:11+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/tags/jenkins/</loc>
     <lastmod>2019-10-21T00:28:11+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/tags/linux/</loc>
     <lastmod>2019-10-21T00:28:11+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/post/devops-jenkins/</loc>
     <lastmod>2019-10-21T00:28:11+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/_archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rmuhamedgaliev.dev/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>

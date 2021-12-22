@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:rmuhamedgaliev/rmuhamedgaliev.github.io.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
