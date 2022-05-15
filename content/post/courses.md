@@ -4,7 +4,7 @@ date: 2022-05-16T00:14:26+03:00
 slug: "courses"
 tags: ["java", "study"]
 categories: ["Development"]
-draft: true
+draft: false
 ---
 
 # Интересные курсы
