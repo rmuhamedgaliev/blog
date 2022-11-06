@@ -8,8 +8,6 @@ enableEmoji = true
 theme = "paper"
 enableGitInfo = false
 
-staticDir = ["content/static"]
-
 hasCJKLanguage = false
 paginate = 5
 googleAnalytics = "UA-157528596-1"

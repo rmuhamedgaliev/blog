@@ -1,14 +1,12 @@
-+++
-draft = false
-date = 2020-02-02T15:24:36+03:00
-title = "Эпоха универсалов"
-description = "Мысли о просмотренном докладе от Yandex."
-slug = "unversal"
-tags = ["soft-skills", "developers", "bus-factor"]
-categories = ["Development"]
-externalLink = ""
-series = []
-+++
+---
+draft: false
+date: 2020-02-02T15:24:36+03:00
+title: "Эпоха универсалов"
+description: "Мысли о просмотренном докладе от Yandex."
+slug: "unversal"
+tags: ["soft-skills", "developers", "bus-factor"]
+categories: ["Development"]
+---
 
 {{< youtube gC1e1CsrNUs >}}
 
