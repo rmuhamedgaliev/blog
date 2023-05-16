@@ -5,7 +5,7 @@ title = "Rinat Muhamedgaliev"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
-theme = "hugo-paper"
+theme = "paper"
 enableGitInfo = false
 
 hasCJKLanguage = false
@@ -28,11 +28,6 @@ googleAnalytics = "UA-157528596-1"
   weight = 10
   identifier = "home"
   url = "/"
-
-[[menu.main]]
-  name = "Consult"
-  weight = 40
-  url = "/consult/"
 
 [[menu.main]]
   name = "About"
