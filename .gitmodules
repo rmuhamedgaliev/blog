@@ -1,9 +1,0 @@
-[submodule "themes/paper"]
-	path = themes/paper
-	url = https://github.com/nanxiaobei/hugo-paper
-[submodule "public"]
-	path = public
-	url = git@github.com:rmuhamedgaliev/rmuhamedgaliev.github.io.git
-[submodule "themes/hugo-paper"]
-	path = themes/hugo-paper
-	url = https://github.com/nanxiaobei/hugo-paper.git
